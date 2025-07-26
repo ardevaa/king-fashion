@@ -1,0 +1,5 @@
+/* Warna biru untuk menu navbar */
+.menu-link {
+  color: #007bff !important; /* biru Bootstrap */
+  font-weight: bold;
+}
